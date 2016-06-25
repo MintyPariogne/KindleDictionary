@@ -1,0 +1,18 @@
+<?xml?>
+<package>
+<metadata>
+</dc-metadata>
+<x-metadata>
+<DictionaryInLanguage>en-us</DictionaryInLanguage>
+<dictionaryOutLanguage>en-us</dictionaryOutLanguage>
+<EmbeddedCover>file.jpg</EmbeddedCover>
+</x-metadata>
+</metadata>
+<manifest>
+<item id="item1" media-type="text/x-oeb1-document" href="az.html"></item>
+</manifest>
+<spine>
+<itemref idref="item1"/></spine>
+<tours></tours>
+<guide></guide>
+</package>
